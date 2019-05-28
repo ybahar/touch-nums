@@ -1,0 +1,26 @@
+ .board {
+     position: relative;
+     align-self: center;
+     left: 40%;
+ }
+ tr ,td {
+    border: 1px solid black;
+    background-color: aqua;
+    height: 70px;
+    width: 70px;
+
+}
+.timer { 
+    text-align: center;
+    text-size-adjust: 60px;
+    color: black;
+
+}
+body {
+    height: 90%;
+    width: 90%;
+background-image: url("background.jpg");
+height: 100%;
+background-repeat: no-repeat;
+background-size: 100%;
+}
